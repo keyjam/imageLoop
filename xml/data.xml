@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--バナーをローテーションするのに最低３つはバナーが必要-->
+<photo>
+	<picture>
+		<title>banner1</title>
+		<link>http://key-jam.com/</link>
+		<target>_blank</target>
+		<smallPic>banner1.gif</smallPic>
+		<bigPic>banner1.gif</bigPic>
+		<timer>6</timer>
+	</picture>
+	<picture>
+		<title>banner2</title>
+		<link>http://key-jam.com/</link>
+		<target>_top</target>
+		<smallPic>banner2.gif</smallPic>
+		<bigPic>banner2.gif</bigPic>
+		<timer>6</timer>
+	</picture>
+	<picture>
+		<title>banner3</title>
+		<link>http://key-jam.com/</link>
+		<target>_top</target>
+		<smallPic>banner3.gif</smallPic>
+		<bigPic>banner3.gif</bigPic>
+		<timer>6</timer>
+	</picture>
+
+</photo>
+	
